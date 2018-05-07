@@ -45,7 +45,6 @@ namespace Week2_Capstone_TaskList
             foreach (Task item in TaskList)
             {
                 Console.WriteLine(item.TaskOwner + " " + item.TaskName);
-
             }
         }
     }
